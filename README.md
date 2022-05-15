@@ -21,11 +21,10 @@
 * Credit - Arts form Evidu Mobile App
 * 	http://www.evidu.net/
 * 	[Download Apps](http://www.evidu.net/web/downloads.php)  
-* 	Swarnahansa Jathakaya App
-	* 	[Android](https://play.google.com/store/apps/details?id=lk.jathakakatha.swarnahansa&feature=search_result) , [IOS](https://apps.apple.com/lk/app/swarnahansa-jathakaya/id524291351)
+* 	Apannaka Jathakaya for TAB
 
 ## Audio
-*  Credit - © Ransilu KaviBana No23 - AlaWathure Vijithawansha.
+*  Credit - © Rupawahini Apannaka Jathakaya.
 
 ## Tools
 * Graphic Design 	- Adobe Photoshop
